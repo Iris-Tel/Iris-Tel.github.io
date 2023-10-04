@@ -29,7 +29,8 @@ Work experience
 
 * PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023, Supervisor: J. Wiart
   *
-* 
+* Visiting Research Engineer, OTE Academy, Greece, 2018
+* Research Engineer, Toshiba Telecommunication Lab (UK), 2014-2015 
 
 
 <!---Chair on Modeling, Characterization and Control of Exposure to Electromagnetic Waves Supervisor: J. Wiart
