@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Here is personal page of SW"
+title: "Shanshan WANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
