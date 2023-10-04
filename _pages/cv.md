@@ -14,7 +14,7 @@ Education
 * Ph.D in University Paris Saclay (FR), 2019, Supervisor: M. Di Renzo
   * Early Stage Researcher (CNRS) at Laboratoire des Signaux et Systèmes (L2S) UMR8506, CNRS, funded by MSCA ITN H2020 Project ’5GWireless’
   * Thesis: Modeling and performance evaluation of the spatially-correlated cellular networks
-  * Jury of oral defense: I. Fijalkow (Chair), M. Dias de Amorim (referee), P. Mary (referee), M. Coupechoux, P. Martins, L. Mroueh
+  <!---* Jury of oral defense: I. Fijalkow (Chair), M. Dias de Amorim (referee), P. Mary (referee), M. Coupechoux, P. Martins, L. Mroueh-->
 
 * Master of Science with Distinction in wireless communication and signal processing, in University of Bristol (UK), 2014
 
