@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<h1>Short Bio</h1>	
+<h1> Bio </h1>	
   
 
 <div align="justify">
