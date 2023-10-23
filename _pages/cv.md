@@ -11,7 +11,7 @@ redirect_from:
 
 <h1>Education</h1>
 
-<div align="justify">
+#<div align="justify">
 * Ph.D., University Paris Saclay (FR), 2019, Supervisor: M. Di Renzo
   * Early Stage Researcher (CNRS) at Laboratoire des Signaux et Systèmes (L2S) UMR8506, CNRS, CentraleSupelec, University Paris-Saclay
   * Funded by MSCA ITN H2020 Project ’5GWireless’
@@ -21,7 +21,7 @@ redirect_from:
 * Master of Science with Distinction in wireless communication and signal processing, University of Bristol (UK), 2014
 
 * Bachelor of Engineering, in Telecommunication, Soochow University (CN), 2013
-</div>
+#</div>
 
 
 <h1>Work Experience</h1>
