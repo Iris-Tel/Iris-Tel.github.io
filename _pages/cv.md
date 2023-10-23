@@ -25,11 +25,13 @@ redirect_from:
 
 
 <h1>Work Experience</h1>
-======
+<div align="justify">
 * Enseignante-Chercheuse (Assistant Professor), ETIS (UMR 8051, CY Cergy Paris University, ENSEA, CNRS), since 2023.
 * PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023
 * Visiting Research Engineer, OTE Academy, Greece, 2018
 * Research Engineer, Toshiba Telecommunication Lab (UK), 2014-2015 
+</div>div
+
 
 
 <h1>Projects</h1>
@@ -37,16 +39,15 @@ redirect_from:
 
 
 
-  
-Skills
-======
-* Python
-* Matlab
-* Java
-
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  Teaching
+======
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -54,12 +55,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
