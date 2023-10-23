@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* Short Bio
+<h1>Short Bio</h1>	
   
 
 <div align="justify">
@@ -23,9 +23,8 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
 
 
 
+<h1>More information</h1>	
 
-More information
-======
 Please contact me for more information on potential PhD, internship opportunities.
 
 
