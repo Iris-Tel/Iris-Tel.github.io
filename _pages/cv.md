@@ -23,25 +23,17 @@ redirect_from:
 
 
 
-Work experience
+<h1>Work Experience</h1>
 ======
-* Enseignante-Chercheuse (Assistant Professor), ETIS (UMR 8051, CY Cergy Paris University, ENSEA, CNRS), 2023
-  * Task 1
-
-* PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023, Supervisor: J. Wiart
-  *
+* Enseignante-Chercheuse (Assistant Professor), ETIS (UMR 8051, CY Cergy Paris University, ENSEA, CNRS), since 2023.
+* PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023
 * Visiting Research Engineer, OTE Academy, Greece, 2018
 * Research Engineer, Toshiba Telecommunication Lab (UK), 2014-2015 
 
 
-<!---Chair on Modeling, Characterization and Control of Exposure to Electromagnetic Waves Supervisor: J. Wiart
-Project: SEAWave (Leader: T. Samaras, Aristotle university of thessaloniki, Greece) Topic: Monitoring of downlink exposure induced by network infrastructure
-Project: Goliat (Leader: M. Guxens, ISGlobal Spain)
-Topic: RF-EMF exposure patterns and levels in young people and workers
-Jan.2018-May.2018 VisitingResearchEngineer,OTEAcademy,Greece Topic: Modeling cellular networks with realistic BS database
-Sept. 2014 - Aug. 2015 Research Engineer, Toshiba Telecommunication Lab, Bristol, UK
-Topic: Study on the border effect and antenna directivity in interference limited ad hoc
-networks. Distributed power allocation in cognitive radio-->
+<h1>Projects</h1>
+* EU project [SEAWave](https://seawave-project.eu/)
+
 
 
   
