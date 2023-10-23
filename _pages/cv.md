@@ -11,6 +11,7 @@ redirect_from:
 
 <h1>Education</h1>
 
+<>
 * Ph.D., University Paris Saclay (FR), 2019, Supervisor: M. Di Renzo
   * Early Stage Researcher (CNRS) at Laboratoire des Signaux et Systèmes (L2S) UMR8506, CNRS, CentraleSupelec, University Paris-Saclay
   * Funded by MSCA ITN H2020 Project ’5GWireless’
