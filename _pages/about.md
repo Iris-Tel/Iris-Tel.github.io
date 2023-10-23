@@ -13,9 +13,11 @@ redirect_from:
 Short Bio
 ======
 
-<div align="justify">your-text-here</div>
+<div align="justify">
 Shanshan Wang is an assistant professor (Enseignante Checheuse) at the Information, Communications and Imaging (ICI) group of ETIS (UMR8051, a joint research laboratory between CY Cergy Paris University, ENSEA and CNRS). She received her Ph.D. degree in from Laboratory of Signals and Systems (L2S), Paris-Saclay University, Paris, France in 2019. From 2015 to 2018, she was with the French National Center for Scientific Research (CNRS), Paris, as an Early Stage Researcher of the European-Funded Project H2020 ETN-5Gwireless. Her research interests include stochastic geometry, EMF exposure, energy efficiency, and machine learning for applications in wireless communications. 
 From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Paris, France. She was a recipient of the 2018 INISCOM Best Paper Award. She served as the guest editor of the MDPI Sensors in 2022.
+</div>
+
 
 More information
 ======
