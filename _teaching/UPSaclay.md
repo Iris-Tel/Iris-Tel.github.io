@@ -2,7 +2,7 @@
 title: "University Paris Saclay"
 collection: teaching
 type: "M2"
-permalink: /teaching/2014-spring-teaching-1.md
+permalink: /teaching/UPSaclay.md
 venue: "University 1, Department of Physics"
 date: 2023-02-02
 location: "Orsay, France"
