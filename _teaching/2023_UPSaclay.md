@@ -4,7 +4,7 @@ title: "Information theory and source coding
 collection: teaching
 type: "M2"
 permalink: /teaching/2023_UPSaclay.md
-venue: "University Paris Saclay, Department of Physics"
+venue: "Universite Paris Saclay, Department of Physics"
 date: 2023-02-02
 location: "Orsay, France"
 ---
