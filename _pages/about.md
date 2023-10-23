@@ -28,7 +28,7 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
 
 <newline> 
 
-Please contact me for more information on potential PhD, internship opportunities.
+For more information on potential PhD, internship opportunities, click the email on the lefrt sidebar.
 
 
 <!--- Site-wide configuration
