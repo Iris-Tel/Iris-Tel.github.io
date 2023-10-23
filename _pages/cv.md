@@ -31,7 +31,8 @@ redirect_from:
 
 <h1>Projects</h1>
 * EU project [SEAWave](https://seawave-project.eu/)
-* EU project 
+* EU project [Goliat](https://projectgoliat.eu/)
+* EU project [5GWireless](https://cordis.europa.eu/project/id/641985)
 
 
 Publications
