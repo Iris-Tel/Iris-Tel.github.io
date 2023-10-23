@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+</br>
 
 Short Bio
 ======
@@ -18,6 +19,7 @@ Shanshan Wang is an assistant professor (Enseignante Checheuse) at the Informati
 From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Paris, France. She was a recipient of the 2018 INISCOM Best Paper Award. She served as the guest editor of the MDPI Sensors in 2022.
 </div>
 
+</br>
 
 More information
 ======
