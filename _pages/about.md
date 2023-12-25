@@ -25,14 +25,18 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
   
 <h1>Education</h1>
 <newline> 
-* Ph.D., University Paris Saclay (FR), 2019, Supervisor: M. Di Renzo
-  * Early Stage Researcher (CNRS) at Laboratoire des Signaux et Systèmes (L2S) UMR8506, CNRS, CentraleSupelec, University Paris-Saclay
-  * Funded by MSCA ITN H2020 Project ’5GWireless’
-  * Thesis: Modeling and performance evaluation of the spatially-correlated cellular networks
-  <!---* Jury of oral defense: I. Fijalkow (Chair), M. Dias de Amorim (referee), P. Mary (referee), M. Coupechoux, P. Martins, L. Mroueh-->
-<newline> 
-* Master of Science with Distinction in wireless communication and signal processing, University of Bristol (UK), 2014
-* Bachelor of Engineering, in Telecommunication, Soochow University (CN), 2013
+<ul>
+  <li>Ph.D., University Paris Saclay (FR), 2019, Supervisor: M. Di Renzo
+    <ul>
+      <li>Early Stage Researcher (CNRS) at Laboratoire des Signaux et Systèmes (L2S) UMR8506, CNRS, CentraleSupelec, University Paris-Saclay</li>
+      <li>Funded by MSCA ITN H2020 Project ’5GWireless’</li>
+      <li>Thesis: Modeling and performance evaluation of the spatially-correlated cellular networks</li>
+      <li>Jury of oral defense: I. Fijalkow (Chair), M. Dias de Amorim (referee), P. Mary (referee), M. Coupechoux, P. Martins, L. Mroueh</li>
+    </ul>
+  </li>
+  <li>Master of Science with Distinction in wireless communication and signal processing, University of Bristol (UK), 2014</li>
+  <li>Bachelor of Engineering, in Telecommunication, Soochow University (CN), 2013</li>
+</ul>
 
 
 <h1>Work Experience</h1>
