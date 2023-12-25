@@ -41,10 +41,12 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
 
 <h1>Work Experience</h1>
 <newline> 
-* Enseignante-Chercheuse (Assistant Professor), ETIS (UMR 8051, CY Cergy Paris University, ENSEA, CNRS), since 2023.
-* PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023
-* Visiting Research Engineer, OTE Academy, Greece, 2018
-* Research Engineer, Toshiba Telecommunication Lab (UK), 2014-2015 
+  <ul>
+    <li>Enseignante-Chercheuse (Assistant Professor), ETIS (UMR 8051, CY Cergy Paris University, ENSEA, CNRS), since 2023.</li>
+    <li>PostDoc Scientist, Chair on Modeling, Characterization and Control of Exposure to EM Waves, Télécom Paris, 2019-2023</li>
+    <li>Visiting Research Engineer, OTE Academy, Greece, 2018</li>
+    <li>Research Engineer, Toshiba Telecommunication Lab (UK), 2014-2015 </li>
+  </ul>
 
 <newline> 
 <newline> 
@@ -52,23 +54,25 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
 <h1>Projects</h1>
 <newline> 
 
-* EU project [SEAWave](https://seawave-project.eu/)
-* EU project [Goliat](https://projectgoliat.eu/)
-* EU project [5GWireless](https://cordis.europa.eu/project/id/641985)
+<ul>
+  <li>EU project [SEAWave](https://seawave-project.eu/)</li>
+  <li>EU project [Goliat](https://projectgoliat.eu/)</li>
+  <li>EU project [5GWireless](https://cordis.europa.eu/project/id/641985)</li>
+</ul>
 
 <newline> 
 <newline> 
 
 <h1>Service and leadership</h1>
 <newline> 
-  
-* 2023.08: Jury (reporter) member of Master thesis defense ”Electromagnetic Field Exposure assessment of 5G NR Cell-free MIMO overlapping with legacy cellular technologies”, University of Twente, Netherland.
-* 2023.05: Tutorial presenter in ICC 2023, Rome, titled ”EMF Exposure-Aware Analysis and Optimization of Wireless Networks: A Multi-displinary Approach”.
-* 2022.06 - 2024.06: Task 1.1 leader on ”Monitoring of downlink exposure induced by network infrastructure” in EU project [SEAWave](https://seawave-project.eu/).
-* 2022.02 - 2022.10: Guest editor of special issue ”Sensing in EMF Exposure Monitoring and Mastering” on Sensors (MDPI).
-* 2022.06: Workshop Chair of BioEM 2022, Nagoya, Japan, titled ”Monitoring of EMF exposures in real daily lives”.
-* 2015.10 - Now: Reviewers for international journals: IEEE TWC, IEEE TCOM, IEEEWCL, JSAC, EURASIP, Applied Science, Sensors (MDPI), Telecom (MDPI)
-
+  <ul>
+    <li>2023.08: Jury (reporter) member of Master thesis defense ”Electromagnetic Field Exposure assessment of 5G NR Cell-free MIMO overlapping with legacy cellular technologies”, University of Twente, Netherland.</li>
+    <li>2023.05: Tutorial presenter in ICC 2023, Rome, titled ”EMF Exposure-Aware Analysis and Optimization of Wireless Networks: A Multi-displinary Approach”.</li>
+    <li>2022.06 - 2024.06: Task 1.1 leader on ”Monitoring of downlink exposure induced by network infrastructure” in EU project [SEAWave](https://seawave-project.eu/).</li>
+    <li>2022.02 - 2022.10: Guest editor of special issue ”Sensing in EMF Exposure Monitoring and Mastering” on Sensors (MDPI).</li>
+    <li>2022.06: Workshop Chair of BioEM 2022, Nagoya, Japan, titled ”Monitoring of EMF exposures in real daily lives”.</li>
+    <li>2015.10 - Now: Reviewers for international journals: IEEE TWC, IEEE TCOM, IEEEWCL, JSAC, EURASIP, Applied Science, Sensors (MDPI), Telecom (MDPI)</li>
+  </ul>
 
 <newline> 
 <newline> 
