@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>Journals:
+
 <ul>
   <li>Mazloum, T., <em><strong>Wang, S.</strong></em>, and Wiart, J., "Impact of Indoor Distributed Antenna System on RF-EMF Global Exposure." IEEE Access (2023).
     <ul><li><em><strong>Abstract</strong></em>: In this paper, we analyze the impact of the installation of indoor DAS on the global human exposure, considering both DL exposure, and UL exposure. Measurement campaigns are carried out with DAS on and off. The global exposure is evaluated using the ‘Exposure Index’ metric is analyzed. The results have shown that DAS implies a reduction in the global EMF exposure while improving the quality of network connectivity.</li></ul>
