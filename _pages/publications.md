@@ -73,6 +73,63 @@ author_profile: true
 
 <h2>Conferences:</h2>
 
+<newline>
+<newline>
+
+<ul>
+  <li>Wang, S., Chikha, W. B., Zhang, Y., Liu, J., Conil, E., Jawad, O., ... & Wiart, J. (2023, August). RF
+Electromagnetic Fields Exposure Monitoring using Drive Test and Sensors in a French City. In 2023 URSI
+GASS (pp. 1-4). IEEE.</li>
+  <li>Wang, S., Mazloum, T., and Wiart, J., ”Drive test measurement-based prediction of RF-EMF exposure
+using ANN model”, BioEM, Nagoya, 2022</li>
+  <li>Roosli, M., Pujol, S., Mauny, F., Gehin, T., Chopard, G., Fl ̈uckiger, B., Loizeau, N., Mazloum, T., Wang, S.,
+Wiart, J., and Eeftens, M., ”Panel study on wireless phone use and cognition (SPUTNIC)”, BioEM, Nagoya,
+2022</li>
+  <li>Hajj, M., Wang, S., & Wiart, J. ”Characterization of EMF exposure in massive MIMO antenna networks
+with max-min fairness power control”, 16th EUCAP 2022, Madrid, Spain</li>
+  <li>Mallik, M., Kharbech S., Wang, S., Mazloum, T., Wiart, J., Gaillot, D.P., and Clavier, L., ”EME-Net: A
+U-Net-based indoor EMF exposure map reconstruction method”, 16th EUCAP 2022, Madrid, Spain</li>
+  <li>Aerts, S., Wang, S., D ́ıez, L., Apostolidis C., Iakovidis, S., Manassas, A., Ag ̈uero, R., Wiart, J., Joseph,
+W., and Samaras, T., ”What has been the impact of Covid-19 on the environmental exposure to RF-EMF?”,
+BioEM, Ghent, Belgium, 2021.</li>
+  <li>Wang, S. and Wiart J. ”Assessment of EMF exposure from urban sensor measurements by using artificial
+neural network.” 2020 XXXIIIrd General Assembly and Scientific Symposium of the International Union of
+Radio Science. IEEE (Online).</li>
+  <li>Hajj, M., Wang, S., de Doncker, P., Oestges, C., and Wiart, J. ” A statistical estimation of 5G massive
+MIMO’s exposure using stochastic geometry.” In 2020 XXXIIIrd General Assembly and Scientific Sympo-
+sium of the International Union of Radio Science (pp. 1-3). IEEE (Online).</li>
+  <li>Hajj, M., Wang, S., de Doncker, P., Oestges, C., and Wiart, J. ” Exposure estimation of massive MIMO
+antennas using stochastic geometry.” BioEM, Oxford, UK, 2020.</li>
+  <li>Di Renzo, M. and Wang, S., and Xi, X. ”Modeling Spatially correlated cellular networks by using inhomo-
+geneous Poisson point processes”, International Conference on Industrial Networks and Intelligent Systems
+(INISCOM), Da Nang, Vietnam, 2018.</li>
+  <li>Wang, S., Samdanis, K., Perez, X. C., and Di Renzo, M. (2016, May). On spectrum and infrastructure
+sharing in multi-operator cellular networks. In 2016 23rd International Conference on Telecommunications
+(ICT), Thessaloniki, Greece (pp. 1-4).</li>
+  <li>Georgiou, O., Wang, S., Bocus, M. Z., Dettmann, C. P., and Coon, J. P. (2015, August). Directional
+antennas improve the link connectivity of interference-limited ad hoc networks. In 2015 IEEE 26th Annual
+International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), Hong Kong
+(pp. 1311-1316). IEEE.</li>
+  <li>Georgiou, O., Bocus, M. Z., and Wang, S. (2015, December). Distributed power allocation and channel
+access probability assignment for cognitive radio. In 2015 IEEE GLOBECOM (pp. 1-6). San Diego, USA.</li>
+  <li>Georgiou, O., Wang, S., Bocus, M. Z., Dettmann, C. P., and Coon, J. P. (2015, May). Location, location,
+location: Border effects in interference-limited ad hoc networks. In 2015 13th IEEE WiOpt (pp. 568-575),
+Mumbai, India.</li>
+</ul>
+
+<h2>Poster Presentations:</h2>
+<newline>
+<newline>
+<ul>
+  <li>Wang, S., et al. ”Comparison of Measurement Systems on Conducting RF-EMF Drive Test Campaign in
+Greek Urban and Suburban environments”, BioEM, Oxford, UK, 18-23 June, 2023.</li>
+  <li>Wang, S., Di Renzo, M., & Xi, X. ”Modeling spatially correlated cellular networks by using inhomogeneous
+Poisson point processes” (Long abstract), 22nd International ITG Workshop on Smart Antennas, WSA,
+Bochum, Germany, 14-16 March, 2018.</li>
+</ul>
+
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
