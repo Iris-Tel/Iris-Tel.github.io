@@ -121,9 +121,9 @@ Mumbai, India.</li>
 <newline>
 <newline>
 <ul>
-  <li>Wang, S., et al. ”Comparison of Measurement Systems on Conducting RF-EMF Drive Test Campaign in
+  <li><em><strong>Wang, S.</strong></em>, et al. ”Comparison of Measurement Systems on Conducting RF-EMF Drive Test Campaign in
 Greek Urban and Suburban environments”, BioEM, Oxford, UK, 18-23 June, 2023.</li>
-  <li>Wang, S., Di Renzo, M., & Xi, X. ”Modeling spatially correlated cellular networks by using inhomogeneous
+  <li><em><strong>Wang, S.</strong></em>, Di Renzo, M., & Xi, X. ”Modeling spatially correlated cellular networks by using inhomogeneous
 Poisson point processes” (Long abstract), 22nd International ITG Workshop on Smart Antennas, WSA,
 Bochum, Germany, 14-16 March, 2018.</li>
 </ul>
