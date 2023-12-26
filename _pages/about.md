@@ -63,7 +63,7 @@ From 2019 to 2023, she was a postdoctotal researcher in Télécom Paris, IP Pari
 <newline> 
 <newline> 
 
-<h1>Service and leadership</h1>
+<h1>Academic Responsibilities</h1>
 <newline> 
   <ul>
     <li>2023.08: Jury (reporter) member of Master thesis defense ”Electromagnetic Field Exposure assessment of 5G NR Cell-free MIMO overlapping with legacy cellular technologies”, University of Twente, Netherland.</li>
