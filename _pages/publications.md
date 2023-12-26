@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Journals</h2>:
+<h2>Journals:</h2>
 
 <ul>
   <li>Mazloum, T., <em><strong>Wang, S.</strong></em>, and Wiart, J., "Impact of Indoor Distributed Antenna System on RF-EMF Global Exposure." IEEE Access (2023).
@@ -70,6 +70,7 @@ author_profile: true
   </li></ul>
 </ul>
 
+<h2>Conferences:</h2>
 
 
 {% if author.googlescholar %}
