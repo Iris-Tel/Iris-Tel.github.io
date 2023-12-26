@@ -67,7 +67,7 @@ author_profile: true
   <newline>
   <li>Di Renzo, M., <em><strong>Wang, S.</strong></em>, and Xi, X. (2018) "Inhomogeneous double thinning – Modeling and analysis of cellular networks by using inhomogeneous Poisson point processes", IEEE Transactions on Wireless Communications, 17.8 (2018): 5162-5182.
     <ul><li><em><strong>Abstract</strong></em>: In this work, we introduce a new methodology for modeling and analyzing downlink cellular networks, where the BSs constitute a motion-invariant PP that exhibits some degree of interactions among the points, i.e., spatial repulsion or spatial clustering. The accuracy of the IDT approach is substantiated with the aid of empirical data for the spatial distribution of the BSs.
-  </li></ul>
+  </li>
 </ul>
 
 
