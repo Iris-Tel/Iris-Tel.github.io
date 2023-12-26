@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <ul>
-  <li>Mazloum, T., ***Wang, S.***, and Wiart, J., "Impact of Indoor Distributed Antenna System on RF-EMF Global Exposure." IEEE Access (2023).
-    <ul><li>***Abstract***: In this paper, we analyze the impact of the installation of indoor DAS on the global human exposure, considering both DL exposure, and UL exposure. Measurement campaigns are carried out with DAS on and off. The global exposure is evaluated using the ‘Exposure Index’ metric is analyzed. The results have shown that DAS implies a reduction in the global EMF exposure while improving the quality of network connectivity.</li></ul>
+  <li>Mazloum, T., **Wang, S.**, and Wiart, J., "Impact of Indoor Distributed Antenna System on RF-EMF Global Exposure." IEEE Access (2023).
+    <ul><li>**Abstract**: In this paper, we analyze the impact of the installation of indoor DAS on the global human exposure, considering both DL exposure, and UL exposure. Measurement campaigns are carried out with DAS on and off. The global exposure is evaluated using the ‘Exposure Index’ metric is analyzed. The results have shown that DAS implies a reduction in the global EMF exposure while improving the quality of network connectivity.</li></ul>
   </li>
   
   <newline>
-  <li>Chikha, W., ***Wang, S.***, and Wiart, J., "An Extrapolation Approach for RF-EMF Exposure Prediction in an Urban Area using Artificial Neural Network", Accepted by IEEE Access.
-    <ul><li>***Abstract***: In this paper, we present an approach to extrapolate the E field in an urban area using artificial neural network. Using public accessed datasets, i.e., cartoradio and OpenStreetMap, we then extract relevant features, including the ones that have a relation with the number of active antennas and those used by Bertoni-Walfisch propagation model.</li></ul>
+  <li>Chikha, W., **Wang, S.**, and Wiart, J., "An Extrapolation Approach for RF-EMF Exposure Prediction in an Urban Area using Artificial Neural Network", Accepted by IEEE Access.
+    <ul><li>**Abstract**: In this paper, we present an approach to extrapolate the E field in an urban area using artificial neural network. Using public accessed datasets, i.e., cartoradio and OpenStreetMap, we then extract relevant features, including the ones that have a relation with the number of active antennas and those used by Bertoni-Walfisch propagation model.</li></ul>
   </li>
   <newline>
 
